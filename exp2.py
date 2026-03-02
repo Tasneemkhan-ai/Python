@@ -2,8 +2,7 @@
 # Coder: Tasneem Khan
 # Date: 14/1/26
 
-# Write your code here
 l=float(input("Enter Length: "))
 w=float(input("Enter Width: "))
-area=l*w		#area of rectangle is length times width
+area=l*w		#formula of area for rectangle
 print("Area of Rectangle = ",area)
